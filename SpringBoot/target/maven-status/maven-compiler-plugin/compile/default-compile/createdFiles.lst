@@ -1,0 +1,14 @@
+ar\com\mp\domain\Rol.class
+ar\com\mp\service\ServicePersonImpl.class
+ar\com\mp\service\ServicePerson.class
+ar\com\mp\service\ServiceUser.class
+ar\com\mp\demo\SpringAppFinalApplication.class
+ar\com\mp\web\WebConfig.class
+ar\com\mp\a\SpringBootAppFinl\SpringBootAppFinal.class
+ar\com\mp\domain\Person.class
+ar\com\mp\dao\IdaoPerson.class
+ar\com\mp\web\ControlerStart.class
+ar\com\mp\domain\Usuario.class
+ar\com\mp\dao\daoUser.class
+ar\com\mp\util\EncriptedPassword.class
+ar\com\mp\web\SecurityConfig.class
